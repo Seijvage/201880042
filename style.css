@@ -1,0 +1,53 @@
+h1
+{
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px skyblue, 0 0 5px blue;
+  font-size: 30x;
+  
+  
+}
+body 
+    {
+    background-image: url(bg.jpg);
+    background-attachment: fixed;
+    
+    }
+ a
+ {
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px skyblue, 0 0 5px blue;
+}
+
+ td
+ {
+  color: whitesmoke;
+  text-shadow: 1px 1px 2px black, 0 0 25px skyblue, 0 0 5px blue;
+  font-size: 25px;
+  column-width: 50%;
+  text-align: justify;
+ }
+body
+{
+	text-align: center;
+	font-size: 30px;
+}
+table
+{
+  text-align:justify;
+
+}
+
+.table table-bordered table-dark
+{
+  background: #12232f;
+}
+.a:hover
+{
+  color: #12232f;
+  text-shadow: 1px 1px 2px black, 0 0 25px skyblue, 0 0 5px blue;
+}
+.mquotes
+{
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px skyblue, 0 0 5px blue;
+}
